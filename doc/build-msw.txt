@@ -82,6 +82,6 @@ cp *.h miniupnpc/
 Dogecoin
 -------
 DOS prompt:
-cd \dogecoin\src
+cd \worthlesscoin\src
 mingw32-make -f makefile.mingw
-strip dogecoind.exe
+strip worthlesscoind.exe
